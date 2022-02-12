@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with best practices for coding
 - 💬 Ask me about my repos
 - 😄 Pronouns: He/Him/Them
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Love hobbies that involve etching a pcb, to soldering components, to writing fimware, flash, networking, clustering and eventuing deploying my pojects :p
